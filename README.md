@@ -1,5 +1,13 @@
 # Skin Cancer Detection using Custom CNN
-> A project to build a custom CNN model to accurately detect melanoma from skin images.
+
+## 🧠 Problem Statement
+
+The goal of this project is to build a **multi-class classification model** using a **custom Convolutional Neural Network (CNN)** in TensorFlow to accurately detect **melanoma**, a highly dangerous form of skin cancer. Melanoma is responsible for approximately 75% of skin cancer-related deaths, and early detection is crucial to improving patient outcomes.
+
+This AI-driven solution aims to assist dermatologists by automating the classification of skin lesion images, reducing manual diagnostic effort and enabling faster medical intervention.
+
+The dataset used in this project contains **2,357 dermoscopic images** of both malignant and benign skin conditions, curated by the **International Skin Imaging Collaboration (ISIC)**. These images are categorized across several classes, with a slightly higher representation of melanomas and moles.
+
 
 ## Table of Contents
 * [General Info](#general-information)
